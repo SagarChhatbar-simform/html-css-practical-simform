@@ -105,7 +105,6 @@ padding-bottom: 10px;
 .inner-cards > img {
     max-width: 50px;
     height: 100%;
-	margin: 0 0 6px 0;
 }
 
 .inner-cards{
@@ -262,6 +261,6 @@ transform: rotate(180deg);
 transition-duration: 500ms, 1500ms; 
 }
 .fa-caret-down{
-
+	cursor: pointer;
 transition-duration: 500ms, 1500ms; 
 }
