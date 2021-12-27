@@ -165,6 +165,10 @@ justify-content: space-between;
 	margin: 0px 10px;
 }
 
+.inner-head-shop-3{
+	align-self: center;
+}
+
 
 
 .head-adjust{
@@ -204,11 +208,7 @@ text-overflow: ellipsis;
 }
 
 .shop-card{
-	padding: 25px 15px;
-display: inline-block;
-vertical-align: top;
 width: 100%;
-max-height: 366px;
 text-align: center;
 }
 
